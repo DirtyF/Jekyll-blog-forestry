@@ -10,6 +10,10 @@ fields:
 - type: text
   name: title
   label: title
+- name: draft
+  type: boolean
+  label: Draft
+  default: true
 - type: text
   name: author
   label: author
