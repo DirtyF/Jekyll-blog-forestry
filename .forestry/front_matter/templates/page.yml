@@ -34,12 +34,12 @@ fields:
 - name: repeat
   type: field_group_list
   fields:
-  - name: test
+  - name: action
     type: text
     config:
       required: true
-    label: test
-    default: Default Text
+    label: action
+    default: Default Action Label
   config:
     min: 
     max: 
