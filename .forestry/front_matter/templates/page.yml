@@ -45,3 +45,5 @@ fields:
     max: 
     labelField: 
   label: repeat
+pages:
+- a-draft-page.md
