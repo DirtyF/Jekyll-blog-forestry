@@ -6,6 +6,7 @@ categories:
 - Jekyll
 - tutorial
 image: assets/images/11.jpg
+draft: false
 
 ---
 No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
@@ -14,7 +15,7 @@ Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so y
 
 ## What is Jekyll?
 
-Jekyll is a simple, blog-aware, static site generator.
+**Jekyll is a simple, blog-aware, static site generator.**
 
 You create your content as text files (Markdown), and organize them into folders. Then, you build the shell of your site using Liquid-enhanced HTML templates. Jekyll automatically stitches the content and templates together, generating a website made entirely of static assets, suitable for uploading to any server.
 
